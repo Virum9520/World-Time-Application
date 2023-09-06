@@ -1,6 +1,6 @@
 # world_time_app
 
-A Flutter Apllication using
+A multiscreen mobile application which shows time according to different selected locations using concepts of 
 
 - API
 - Stateful Widgets
