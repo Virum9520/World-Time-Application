@@ -6,3 +6,5 @@ A multiscreen mobile application which shows time according to different selecte
 - Stateful Widgets
 - Page Routing
 - Interactive UI
+
+![image info](Readme_images/Loading_screen.png)
