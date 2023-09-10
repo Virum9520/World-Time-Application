@@ -7,4 +7,4 @@ A multiscreen mobile application which shows time according to different selecte
 - Page Routing
 - Interactive UI
 
-<img src="/Readme_images/Loading_screen.png"  width="120" height="261">
+<p><img src="/Readme_images/Loading_screen.png"  width="180" height="392"><img src="/Readme_images/Daytime.png"  width="180" height="392"><img src="/Readme_images/Nighttime.png"  width="180" height="392"><img src="/Readme_images/Locations.png"  width="180" height="392"></p>
